@@ -4,7 +4,7 @@
     <property name="created">2022-03-02T06:47:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-03T09:48:06</property>
+    <property name="modified">2022-03-03T10:06:37</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -54,9 +54,9 @@
     <option name="DOC_COMMENT_LINK" value="78dce8" />
     <option name="FILESTATUS_ADDED" value="a9dc76" />
     <option name="FILESTATUS_COPIED" value="a9dc76" />
-    <option name="FILESTATUS_DELETED" value="b5b5b5" />
+    <option name="FILESTATUS_DELETED" value="727072" />
     <option name="FILESTATUS_HIJACKED" value="ffd866" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b5b5b5" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
@@ -67,10 +67,11 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="ab9df2" />
     <option name="FILESTATUS_MODIFIED" value="78dce8" />
+    <option name="FILESTATUS_NOT_CHANGED" value="b5b5b5" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78dce8" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="b5b5b5" />
+    <option name="FILESTATUS_SUPPRESSED" value="727072" />
     <option name="FILESTATUS_SWITCHED" value="ab9df2" />
     <option name="FILESTATUS_UNKNOWN" value="f59762" />
     <option name="FILESTATUS_addedOutside" value="ffd866" />
