@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="userIntputModal" type="PLAIN_TEXT" />
+      <mapping ext="xlsm" type="PLAIN_TEXT" />
+      <removed_mapping ext="xlf" approved="true" type="XML" />
+    </extensionMap>
+  </component>
+</application>

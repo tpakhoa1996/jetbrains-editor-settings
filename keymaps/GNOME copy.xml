@@ -1,0 +1,79 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Console.History.Browse" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="GotoTypeDeclaration" />
+  <action id="ParameterInfo" />
+  <action id="PerforceDirect.Edit" />
+  <action id="RecentLocations" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="ShelvedChanges.Rename" />
+  <action id="ToggleFindInSelection" />
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>
