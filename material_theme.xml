@@ -4,7 +4,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -12,11 +11,14 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="leftTreeIndent" value="14" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="tabFontSize" value="18" />
+    <option name="leftTreeIndent" value="16" />
     <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="ffd866" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-38081aa0:1743eb84013:-8000" />
     <option name="version" value="6.8.2" />
+    <option name="tabFont" value="Fira Code" />
   </component>
 </application>
