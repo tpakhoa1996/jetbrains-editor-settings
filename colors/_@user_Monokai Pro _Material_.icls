@@ -4,13 +4,13 @@
     <property name="created">2022-03-02T06:47:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-18T05:42:53</property>
+    <property name="modified">2022-03-18T16:25:51</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
