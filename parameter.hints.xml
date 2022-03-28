@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.io.PrintStream.format(s,objects)" />
+      </blacklist>
+    </blacklists>
     <disabledLanguages>
       <language id="PHP" />
     </disabledLanguages>
